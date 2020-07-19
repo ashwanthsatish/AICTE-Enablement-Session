@@ -1,1 +1,1 @@
-# AICTE-Enablement-Session
+# AICTE Enablement Session
